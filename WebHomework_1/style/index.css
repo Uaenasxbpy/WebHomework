@@ -151,11 +151,14 @@ h3 {
 a {
     display: inline-block;
     margin-right: 10px;
-    color: rgb(254, 253, 253);
+    color: rgb(3, 3, 3);
     text-decoration: none;
     transition: color 0.3s, font-size 0.3s;
 }
 
+footer a{
+    color: #fff;
+}
 a:hover {
     color: orangered;
     text-decoration: underline;
